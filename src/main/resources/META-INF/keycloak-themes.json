@@ -1,0 +1,6 @@
+{
+    "themes": [{
+      "name" : "usercreateemail",
+      "types": [ "email" ]
+    }]
+  }
